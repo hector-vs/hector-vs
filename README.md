@@ -6,9 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hector-vs&bg_color=0d1117&color=4169e1&line=4169e1&point=00e1ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hector-vs&column=3&margin-w=15&margin-h=15&theme=discord" />
-</p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hector-vs&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
