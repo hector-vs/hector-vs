@@ -9,10 +9,10 @@
 
 
 <!-- GitHub Stats -->
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hector-vs&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Hector VS github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-vs&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
-</div>
+</div> -->
 
 <!-- Skills -->
 <div width=500px align="center"> 
@@ -47,10 +47,4 @@
   <a href="https://open.spotify.com/user/22dgq5n5ifmovzwy2rdkxi7wi?si=949993d9bc824da0" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> <!-- Spotify -->
 </div>
   
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hector-vs}/count.svg" /></p> 
-  <br>
-</div>
-
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
